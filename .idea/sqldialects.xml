@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_01_php_ranking_gier_BAZA/baza.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_03_php_wiedzamin_BAZA/baza.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_04_php_firma_przewozowa_BAZA/baza.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_06_php_biblioteka_BAZA/biblio.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_08_js_php_smoki_BAZA/bazasmoki.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_09_php_malowanie_gips_BAZA/remonty.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_10_php_szkolenia_BAZA/szkolimy.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_11_php_opony_BAZA/opona.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inf_03_2025_06_12_php_Medica_BAZA/baza.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/nf_03_2025_06_04_php_fir_przew_BAZA/baza.sql" dialect="GenericSQL" />
+  </component>
+</project>
